@@ -1,0 +1,15 @@
+*.class
+*.html
+
+/target/
+
+build/
+logs/
+
+out/
+generated/
+out/classes/
+
+**/idea-gclasses/
+**/gclasses/
+output/
